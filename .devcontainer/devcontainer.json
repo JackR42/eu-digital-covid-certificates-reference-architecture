@@ -27,7 +27,7 @@
         "source=${env:HOME}${env:USERPROFILE}/.azure,target=/root/.azure,type=bind",
     ],
     "hostRequirements": {
-        "cpus": 16,
-        "memory": "16gb"
+        "cpus": 4,
+        "memory": "8gb"
     }
 }
